@@ -3,12 +3,21 @@
   "description": "An AI-powered application by Sehested AI where you can upload multiple PDF documents and engage in an expert conversation about their contents. Get insights, summaries, and answers quickly.",
   "requestFramePermissions": [],
   "documentSets": {
-    "Merudgifter voksne": {
+    "Merudgifter Voksne (Nyeste Principafgørelser)": {
       "files": [
-        "/documents/merudgifter_voksne/ankestyrelsens_principafgorelse_226_11.pdf"
+        "/documents/merudgifter_voksne/ankestyrelsens_principafgorelse_226_11.pdf",
+        "/documents/merudgifter_voksne/ankestyrelsens_principafgorelse_50_19.pdf",
+        "/documents/merudgifter_voksne/ankestyrelsens_principafgorelse_57_13.pdf",
+        "/documents/merudgifter_voksne/ankestyrelsens_principafgorelse_c_12_01.pdf",
+        "/documents/merudgifter_voksne/ankestyrelsens_principafgorelse_c_18_00.pdf",
+        "/documents/merudgifter_voksne/ankestyrelsens_principafgorelse_c_37_05.pdf",
+        "/documents/merudgifter_voksne/ankestyrelsens_principafgorelse_c_38_00.pdf",
+        "/documents/merudgifter_voksne/ankestyrelsens_principafgorelse_c_53_06.pdf",
+        "/documents/merudgifter_voksne/ankestyrelsens_principafgorelse_c_7_07.pdf",
+        "/documents/merudgifter_voksne/ankestyrelsens_principafgorelse_c_8_07.pdf"
       ]
     },
-    "Merudgifter voksne - Historiske": {
+    "Merudgifter Voksne (Historiske Principafgørelser)": {
       "files": [
         "/documents/merudgifter_voksne_historiske/principafgorelse_56_13_ankestyrelsen.pdf"
       ]
